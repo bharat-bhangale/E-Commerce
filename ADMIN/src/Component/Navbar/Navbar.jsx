@@ -1,12 +1,15 @@
 import React from "react";
 import "./Navbar.css";
-import navlogo from "../../assets/nav-logo.svg";
+import navlogo from "../../assets/logo.png";
 import navprofile from "../../assets/nav-profile.svg";
 
 const Navbar = () => {
   return (
     <div className="navbar">
-      <img src={navlogo} className="nav-logo" />
+       <div className="nav-logo">
+                    <img src={navlogo} alt="" />
+                    <p>CLOTHE.CO</p>
+                </div>
       <img src={navprofile} className="nav-profile" />
     </div>
   );
