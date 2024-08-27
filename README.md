@@ -4,7 +4,7 @@ Technologies Used ⚛ React: For building the front-end user interface. 🌐 Exp
 
 Getting Started Follow these steps to set up the project locally:
 
-Clone the repository: git clone https://github.com/yourusername/clothe.co.git
+Clone the repository: git clone https://github.com/bharat-bhangale/E-Commerce
 
 Install dependencies: cd clothe.co npm install cd client npm install
 
