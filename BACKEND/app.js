@@ -11,7 +11,7 @@ const { error } = require("console");
 
 const port = 8080;
 const dburl =
-  "mongodb+srv://mern-stack:mernstack%401234@cluster0.h5hdris.mongodb.net/e-commerce";
+  "mongodb+srv://bharatbhangale1624:bharatbhangale@cluster0.i2cjo.mongodb.net/e-commerce";
 
 mongoose.connect(dburl);
 
